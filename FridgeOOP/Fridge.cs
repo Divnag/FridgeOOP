@@ -92,6 +92,7 @@ namespace FridgeOOP
         public void RemoveFood(int foodRemoved)
         {
             foodAmount -= foodRemoved;
+            
 
         }
 
